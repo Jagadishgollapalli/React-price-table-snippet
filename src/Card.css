@@ -14,7 +14,11 @@ section.pricing {
 .pricing hr {
   margin: 1.5rem 0;
 }
-
+h1{
+  background-color: rgb(241, 245, 14);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
 .pricing .card-title {
   margin: 0.5rem 0;
   font-size: 0.9rem;
