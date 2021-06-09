@@ -9,6 +9,7 @@ const Card=(props)=>{
     return(
         <section class="pricing py-5">
            <div class="container">
+        <h1><b>React price table snippet using bootstrap : </b></h1>
               <div class="row">
               {
                   props.jsonCard.map((card)=>{
